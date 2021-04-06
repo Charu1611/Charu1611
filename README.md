@@ -1,16 +1,16 @@
+<img src="https://user-images.githubusercontent.com/64217477/100612840-99b72080-3339-11eb-8c1d-73cc997f1bc0.png" height=200px width=300px >
+
 ### Hi there 👋
 
-<!--
-**Charu1611/Charu1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on websites.
+- 🌱 I’m currently learning Data Structures.
+- 👯 I’m looking to collaborate on web development projects.
+- 🤔 I’m looking for help with Freelancing projects realed to front end web development.
+- 💬 Ask me about - Web D 
+- 📫 How to reach me: LinkedIn/Charu Bansal | Instagram/charu_bansal___
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:  There are over 700 different programming languages! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Charu's github stats](https://github-readme-stats.vercel.app/api?username=Charu1611)
