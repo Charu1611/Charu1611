@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/80777510/113674143-7d583580-96d7-11eb-8098-44ab018ce6bf.png" height=200px width=300px >
+<img src="https://pronovix.com/sites/default/files/blogpost/image/blogpost_joker_images_1200x800-01.png" height=200px width=300px >
 
 ### Hi there 👋
 
