@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app-
+I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to websites.-
 
 - 🔭 I’m currently working on websites.
 - 🌱 I’m currently learning Data Structures.
