@@ -20,3 +20,9 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 
 ### Overall
 ![Vibhanshu's github stats](https://github-readme-stats.vercel.app/api?username=Charu1611)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories and following me!
+
+</div>
