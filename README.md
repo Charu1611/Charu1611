@@ -13,6 +13,8 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 - 📫 How to reach me: LinkedIn/Charu Bansal | Instagram/charu_bansal___
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:  There are over 700 different programming languages! 
+### Current Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Charu1611&theme=blue-green&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
 ### Languages used
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charu1611)
 
