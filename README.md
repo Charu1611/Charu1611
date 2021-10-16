@@ -1,6 +1,7 @@
 <img src="https://pronovix.com/sites/default/files/blogpost/image/blogpost_joker_images_1200x800-01.png" height=200px width=300px >
 
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Charu1611&label=Views&color=blue&style=plastic" alt="Charu1611" /> </p>
 
 I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to websites.-
 
