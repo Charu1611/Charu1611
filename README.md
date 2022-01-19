@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://github.com/priyanka090700"><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills&height=45"></a>
 </p>
-I am a 2nd year B.Tech student looking forward for opportunities and collabaration in projects related to websites.-
+I am a 3rd year B.Tech student looking forward for opportunities and collabaration in projects related to websites.-
 
 - 🔭 I’m currently working on websites.
 - 🌱 I’m currently learning Data Structures.
@@ -19,7 +19,7 @@ I am a 2nd year B.Tech student looking forward for opportunities and collabarati
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charu1611)
 
 ### Overall
-![Vibhanshu's github stats](https://github-readme-stats.vercel.app/api?username=Charu1611)
+![Charu's github stats](https://github-readme-stats.vercel.app/api?username=Charu1611)
 
 <div align="center">
 
