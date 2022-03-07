@@ -1,7 +1,7 @@
 ## Hii, I'm [Charu Bansal!](https://www.linkedin.com/in/charu-bansal1/) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charu1611&label=Views&color=blue&style=plastic" alt="Charu1611" /> </p>
 <p align="left">
-  <a href="https://github.com/priyanka090700"><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills&height=45"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills&height=45"></a>
 </p>
 I am a 3rd year B.Tech student looking forward for opportunities and collabaration in projects related to websites.-
 
