@@ -10,7 +10,7 @@ I am a 3rd year B.Tech student looking forward for opportunities and collabarati
 - 👯 I’m looking to collaborate on web development projects.
 - 🤔 I’m looking for help with Freelancing projects realed to front end web development.
 - 💬 Ask me about - Web D 
-- 📫 How to reach me: LinkedIn/Charu Bansal | Instagram/charu_bansal___
+- 📫 How to reach me: LinkedIn/Charu Bansal 
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:  There are over 700 different programming languages! 
 ### Current Streak
