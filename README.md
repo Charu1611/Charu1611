@@ -1,18 +1,18 @@
 ## Hii, I'm [Charu Bansal!](https://www.linkedin.com/in/charu-bansal1/) 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charu1611&label=Views&color=blue&style=plastic" alt="Charu1611" /> </p>
 <p align="left">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Self+Taught+Programmer+and+Developer;Hardworking%2C+Determined%2C+Passionate;Always+learning+new+skills&height=45"></a>
+<a href=""><img src="https://readme-typing-svg.herokuapp.com?color=170D92&lines=Software+Developer;Experienced+in+Web+and+Mobile+Development;Proficient+in+C%2B%2B%2C+DSA%2C+OOPs%2C+MySQL.&height=45"></a>
 </p>
-I am a 4th year B.Tech student looking forward for opportunities and collabaration in projects related to websites.-
 
-- 🔭 I’m currently working on websites.
-- 🌱 I’m currently learning Data Structures.
-- 👯 I’m looking to collaborate on web development projects.
-- 🤔 I’m looking for help with Freelancing projects realed to front end web development.
-- 💬 Ask me about - Web D 
-- 📫 How to reach me: LinkedIn/Charu Bansal 
-- 😄 Pronouns: She/her
-- ⚡ Fun fact:  There are over 700 different programming languages! 
+I am a software developer with experience in web and mobile development. I have completed my B.Tech and now looking forward to new opportunities and collaborations in the field of software development.
+
+🔭 I’m currently working on mobile apps.
+🌱 I’m constantly learning and improving my skills, especially in Data Structures and Algorithms.
+👯 I’m looking to collaborate on web and mobile development projects.
+🤔 I’m looking for help with freelancing projects related to front-end web and app development.
+📫 How to reach me: LinkedIn/Charu Bansal
+😄 Pronouns: She/her
+⚡ Fun fact: There are over 700 different programming languages!
 ### Current Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Charu1611&theme=blue-green&hide_border=true&currStreakNum=DD2727)](https://git.io/streak-stats)
 ### Languages used
